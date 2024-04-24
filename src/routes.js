@@ -10,10 +10,10 @@ import Projects from './Contairner/Projects'
         return (
             <Router>
                 <Routes>
-                    <Route exact path='/' component={Home} />
-                    <Route exact path='/sobremim' component={AboutMe} />
-                    <Route exact path='/contato' component={Contact} />
-                    <Route exact path='/projetos' component={Projects} />
+                    <Route exact path='/' element={< Home />} />
+                    <Route path='/sobremim' element={< AboutMe />} />
+                    <Route path='/contato' element={< Contact />} />
+                    <Route path='/projetos' element={< Projects />} />
                 </Routes>
             </Router>
         )
