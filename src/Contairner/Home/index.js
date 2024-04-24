@@ -17,7 +17,7 @@ function Home() {
       <ContainerItems>
         <Header>
           <H1>Bruna Costa</H1>
-          <a className='routes' href='http://localhost:3000/'>Home</a>
+          <a className='routes' href='https://portifolio-bruna-costa-zx57.vercel.app/'>Home</a>
           <a className='routes' href='http://localhost:3000/sobremim'>Sobre Mim</a>
           <a className='routes' href='http://localhost:3000/projetos'>Projetos</a>
           <a className='routes' href='http://localhost:3000/contato'>Contato</a>
