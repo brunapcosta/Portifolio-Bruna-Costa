@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const apiPortifolio = axios.create({
-    baseURL: 'http://localhost:3000'
+    baseURL: 'https://portifolio-bruna-costa-zx57.vercel.app/'
 })
 
 export default apiPortifolio
