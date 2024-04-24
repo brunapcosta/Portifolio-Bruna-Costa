@@ -19,10 +19,10 @@ function AboutMe() {
         <Container>
             <ContainerItems>
                 <Header>
-                    <a href='http://localhost:3000/'>Home</a>
-                    <a href='http://localhost:3000/sobremim'>Sobre Mim</a>
-                    <a href='http://localhost:3000/projetos'>Projetos</a>
-                    <a href='http://localhost:3000/contato'>Contato</a>
+                    <a href='https://portifolio-bruna-costa-zx57.vercel.app/'>Home</a>
+                    <a href='https://portifolio-bruna-costa-zx57.vercel.app/sobremim'>Sobre Mim</a>
+                    <a href='https://portifolio-bruna-costa-zx57.vercel.app/projetos'>Projetos</a>
+                    <a href='https://portifolio-bruna-costa-zx57.vercel.app/contato'>Contato</a>
                 </Header>
             </ContainerItems>
             <BusinessCard>
