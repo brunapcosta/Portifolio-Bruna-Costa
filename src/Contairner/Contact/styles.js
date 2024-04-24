@@ -38,30 +38,30 @@ export const SocialMedias = styled.div`
 
     
     .linkedin{
-        height: 35px;
-        width: 35px;
+        height: 50px;
+        width: 50px;
         margin-left: 130px;
         margin-top: 54px;
         filter: opacity(0.5) drop-shadow(0 0 0 blue);
     }
 
     .github{
-        height: 34px;
-        width: 48px;
+        height: 50px;
+        width: 52px;
         margin-left: 130px;
         margin-top: 54px;
     }
 
     .gmail{
-        height: 36px;
-        width: 40px;
+        height: 50px;
+        width: 60px;
         margin-left: 130px;
         margin-top: 54px;
     }
 
     .whatsapp{
-        height: 38px;
-        width: 44px;
+        height: 50px;
+        width: 60px;
         margin-left: 166px;
         margin-top: 54px;
     }
