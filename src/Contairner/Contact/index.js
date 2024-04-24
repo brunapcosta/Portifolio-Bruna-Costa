@@ -34,14 +34,14 @@ function Contact() {
           <a href='https://wa.me/555181713115' target="_blank" rel="noreferrer">
             <img className='whatsapp' src={WhatsApp} alt='logo-whatsapp' />
           </a>
-          <img className='gmail' src={Gmail} alt='logo-outlook' />
-          <p><a href='mailto:brunapadidacosta@gmail.com' target="_blank" rel="noreferrer">brunapadidacosta@gmail.com</a></p>
-          <img className='github' src={GitHub} alt='logo-github' />
-          <p><a href='https://github.com/brunapcosta' target="_blank" rel="noreferrer">brunapcosta</a></p>
-          <img className='linkedin' src={Linkedin} alt='logo-linkedin' />
+          <img className='gmail' alt='logo-outlook' />
+          <p><a href='mailto:brunapadidacosta@gmail.com' target="_blank" rel="noreferrer"> src={Gmail} </a></p>
+          <img className='github' alt='logo-github' />
+          <p><a href='https://github.com/brunapcosta' target="_blank" rel="noreferrer"> src={GitHub} </a></p>
+          <img className='linkedin' alt='logo-linkedin' />
           <p>
             <a href='https://www.linkedin.com/in/bruna-padilha-da-costa-15828893/' target="_blank" rel="noreferrer">
-              Bruna Padilha da Costa</a>
+            src={Linkedin} </a>
           </p>
         </SocialMedias>
       </BusinessCard>
