@@ -38,49 +38,39 @@ export const SocialMedias = styled.div`
 
     
     .linkedin{
-        height: 55px;
-        width: 55px;
+        height: 35px;
+        width: 35px;
         margin-left: 130px;
         margin-top: 54px;
         filter: opacity(0.5) drop-shadow(0 0 0 blue);
     }
 
     .github{
-        height: 54px;
-        width: 68px;
+        height: 34px;
+        width: 48px;
         margin-left: 130px;
         margin-top: 54px;
     }
 
     .gmail{
-        height: 56px;
-        width: 60px;
+        height: 36px;
+        width: 40px;
         margin-left: 130px;
         margin-top: 54px;
     }
 
     .whatsapp{
-        height: 58px;
-        width: 64px;
+        height: 38px;
+        width: 44px;
         margin-left: 166px;
         margin-top: 54px;
     }
 
-    p{
-        display: flex;
-        flex-direction: column-reverse;
+    a{
         color: #FFFFFF;
         font-weight: 300;
         font-size: 18px;
-        margin-left: 5px;
-        margin-bottom: 12px;
-
-        a{
-            color: #FFFFFF;
-            font-weight: 300;
-            font-size: 18px;
-            text-decoration: none;
-
+        text-decoration: none;
             &:hover{
             opacity: 0.5;
             }
@@ -88,7 +78,6 @@ export const SocialMedias = styled.div`
                 opacity: 0.8;
             }
         }
-    }
     `
 
 export const ContainerItems = styled.div`
