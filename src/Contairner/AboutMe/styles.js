@@ -13,16 +13,16 @@ export const Container = styled.div`
     /* align-items: center; */
 `
 
-export const BusinessCard = styled.div`
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    text-align: justify;
-    justify-content: center;
-    align-items: center;
-    /* margin-left: 40px; */
-    /* justify-content: center; */
-`
+// export const BusinessCard = styled.div`
+//     display: flex;
+//     flex-direction: row;
+//     flex-wrap: wrap;
+//     text-align: justify;
+//     justify-content: center;
+//     align-items: center;
+//     /* margin-left: 40px; */
+//     /* justify-content: center; */
+// `
 
 export const Me = styled.div`
     margin-top: 30px;

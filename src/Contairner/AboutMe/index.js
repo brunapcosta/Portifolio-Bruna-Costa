@@ -9,7 +9,7 @@ import {
     Container,
     BusinessCard,
     Me,
-    PerfilImage,
+    // PerfilImage,
     ContainerItems,
     Header
 } from './styles'
