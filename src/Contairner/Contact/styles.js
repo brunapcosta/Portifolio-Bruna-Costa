@@ -101,14 +101,16 @@ export const Header = styled.header`
             text-decoration: none;
             color: #FFFFFF;
             cursor: pointer;
+            font-size: 18px;
 
             &:hover{
                 opacity: 0.8;
+                color: #1BB582;
+                background: radial-gradient(black, transparent);
             }
             &:active{
                 opacity: 0.5;
+                background: radial-gradient(black, transparent);
             }
-
         }
-
 `
