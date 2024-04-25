@@ -12,10 +12,10 @@ function Projects() {
     <Container>
       <ContainerItems>
         <Header>
-          <a href='https://portifolio-bruna-costa-zx57.vercel.app/'>Home</a>
-          <a href='https://portifolio-bruna-costa-zx57.vercel.app/sobremim'>Sobre Mim</a>
-          <a href='https://portifolio-bruna-costa-zx57.vercel.app/projetos'>Projetos</a>
-          <a href='https://portifolio-bruna-costa-zx57.vercel.app/contato'>Contato</a>
+          <a href='https://portifolio-bruna-costa.vercel.app/'>Home</a>
+          <a href='https://portifolio-bruna-costa.vercel.app/sobremim'>Sobre Mim</a>
+          <a href='https://portifolio-bruna-costa.vercel.app/projetos'>Projetos</a>
+          <a href='https://portifolio-bruna-costa.vercel.app/contato'>Contato</a>
         </Header>
       </ContainerItems>
       <H1>Projetos</H1>
