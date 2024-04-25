@@ -41,7 +41,6 @@ function AboutMe() {
                         <br />
                         CSS, JavaScript, ReactJS, NodeJS.
                         <br />
-                        <br />
                         No momento, estou no modulo Jornada FulStack
                         <br />
                         do Cruso DevClub do Rodolfo Mori.
