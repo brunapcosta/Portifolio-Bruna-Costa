@@ -5,8 +5,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
     height: 100vh;
     width: 100vw;
-    background: rgb(0,0,107);
-    background: linear-gradient(90deg, rgba(69,44,99,1) 0%, rgba(131,58,180,1) 50%, rgba(147,112,219) 100%);
+    /* background: linear-gradient(90deg, rgba(69, 44, 99, 1) 0%, rgba(131, 58, 180, 1) 50%, rgba(147, 112, 219) 100%); */
     background-size: cover;
     display: grid;
     grid-auto-rows: 100px 600px;
@@ -27,6 +26,7 @@ export const Container = styled.div`
 export const Me = styled.div`
     margin-top: 30px;
     margin-left: 80px;
+    background: rgb(54, 41, 107);
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
