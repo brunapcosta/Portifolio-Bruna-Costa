@@ -22,6 +22,15 @@ export const BusinessCard = styled.div`
     align-items: center;
     /* margin-left: 40px; */
     /* justify-content: center; */
+`
+
+export const Me = styled.div`
+    margin-top: 30px;
+    margin-left: 80px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
 
     h1 {
         font-style: normal;
@@ -40,15 +49,6 @@ export const BusinessCard = styled.div`
         text-align: justify;
         /* padding-left: 8px; */
     }
-`
-
-export const Me = styled.div`
-    margin-top: 30px;
-    margin-left: 80px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
 
     /* display: flex;
     flex-direction: column;
