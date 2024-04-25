@@ -37,7 +37,7 @@ export const BusinessCard = styled.div`
         font-weight: 300;
         font-size: 16px;
         color: #FFFFFF;
-        text-align: center;
+        text-align: justify;
         /* padding-left: 8px; */
     }
 `

@@ -26,7 +26,6 @@ function AboutMe() {
                 </Header>
             </ContainerItems>
             <BusinessCard>
-                <PerfilImage src={PerfilImg} alt='perfil-image' />
                 {/* <PerfilImage src={PerfilImg} alt='perfil-image' /> */}
                 <Me>
                     <h1>Sobre Mim</h1>
@@ -39,7 +38,7 @@ function AboutMe() {
                         <br />
                         Já tenho domino de ferramentas como HTML,
                         <br />
-                        CSS,, JavaScript, ReactJS, NodeJS.
+                        CSS, JavaScript, ReactJS, NodeJS.
                         <br />
                         <br />
                         No momento, estou no modulo Jornada FulStack
