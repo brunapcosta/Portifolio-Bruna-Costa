@@ -49,20 +49,7 @@ export const Me = styled.div`
         text-align: justify;
         /* padding-left: 8px; */
     }
-
-    /* display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between; */
-
-    /* margin-left: 120px;  */
 `
-
-// export const DevImage = styled.img`
-//     height: 60%;
-//     margin-top: 30px;
-//     /* align-content: flex-start; */
-// `
 
 // export const PerfilImage = styled.img`
 //     /* margin-left: 20px; */
@@ -73,7 +60,7 @@ export const Me = styled.div`
 // `
 
 export const ContainerItems = styled.div`
-    background: #373737;
+    background: rgb(26, 26, 78);
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     border-radius: 0px 10px 10px 0px;
