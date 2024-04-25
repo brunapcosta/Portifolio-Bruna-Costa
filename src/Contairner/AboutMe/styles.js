@@ -13,16 +13,16 @@ export const Container = styled.div`
     /* align-items: center; */
 `
 
-// export const BusinessCard = styled.div`
-//     display: flex;
-//     flex-direction: row;
-//     flex-wrap: wrap;
-//     text-align: justify;
-//     justify-content: center;
-//     align-items: center;
-//     /* margin-left: 40px; */
-//     /* justify-content: center; */
-// `
+export const BusinessCard = styled.div`
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 40px; */
+    /* justify-content: center; */
+`
 
 export const Me = styled.div`
     margin-top: 30px;
@@ -64,13 +64,13 @@ export const Me = styled.div`
 //     /* align-content: flex-start; */
 // `
 
-export const PerfilImage = styled.img`
-    /* margin-left: 20px; */
-    margin-right: 80px;
-    height: 50%;
-    border-radius: 10%;
-    border: solid 2px slategrey;
-`
+// export const PerfilImage = styled.img`
+//     /* margin-left: 20px; */
+//     margin-right: 80px;
+//     height: 50%;
+//     border-radius: 10%;
+//     border: solid 2px slategrey;
+// `
 
 export const ContainerItems = styled.div`
     background: #373737;
