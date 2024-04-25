@@ -1,15 +1,8 @@
 import React from 'react'
-// import { useForm } from "react-hook-form"
 
-// import PerfilImg from '../../assets/perfil.png'
-// import PerfilImg from '../../assets/perfil.png'
-// import Button from '../../Components/Button'
-// import apiCodeBurger from '../../services/api'
 import {
     Container,
-    // BusinessCard,
     Me,
-    // PerfilImage,
     ContainerItems,
     Header
 } from './styles'

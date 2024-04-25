@@ -5,8 +5,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
     height: 100vh;
     width: 100vw;
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(69,44,99,1) 0%, rgba(131,58,180,1) 50%, rgba(147,112,219) 100%);
+    background: rgb(26, 26, 78);
     background-size: cover;
     display: grid;
     grid-auto-rows: 100px 600px;
@@ -81,7 +80,7 @@ export const SocialMedias = styled.div`
     `
 
 export const ContainerItems = styled.div`
-    background: #373737;
+    background: rgb(26, 26, 78);
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     border-radius: 0px 10px 10px 0px;
