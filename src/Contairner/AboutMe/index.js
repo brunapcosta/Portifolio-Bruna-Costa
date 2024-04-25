@@ -47,9 +47,9 @@ function AboutMe() {
                     </p>
                         <br />
                     <p className='p3'>
-                        Meu objetivo é me tornar uma programadora Full Stack
+                        Meu objetivo é me tornar uma programadora
                         <br />
-                        dominando tanto o Front-End, quanto o Back-End.
+                        Full Stack dominando tanto o Front-End, quanto o Back-End.
                     </p>
                 </Me>
         </Container>
