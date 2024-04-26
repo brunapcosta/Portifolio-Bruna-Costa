@@ -41,8 +41,7 @@ export const SocialMedias = styled.div`
         width: 35px;
         margin-left: 130px;
         margin-top: 54px;
-        /* background-color: #FFFFFF; */
-        filter: drop-shadow(0 0 0 white);
+        filter: opacity(0.5) drop-shadow(0 0 0 white);
     }
 
     .github{
