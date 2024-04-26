@@ -2,9 +2,9 @@ import React from 'react'
 
 // import { useForm } from "react-hook-form"
 
-import GitHub from '../../assets/github2.png'
+import GitHub from '../../assets/logo-github-branco.jpg'
 import Gmail from '../../assets/gmail.png'
-import Linkedin from '../../assets/linkedin.png'
+import Linkedin from '../../assets/log-linkedin-branco.png'
 import WhatsApp from '../../assets/whatsapp.png'
 // import PerfilImg from '../../assets/perfil.png'
 // import Button from '../../Components/Button'
