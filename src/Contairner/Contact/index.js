@@ -4,7 +4,7 @@ import React from 'react'
 
 import GitHub from '../../assets/github2.png'
 import Gmail from '../../assets/gmail.png'
-import Linkedin from '../../assets/linkedin.png'
+import Linkedin from '../../assets/linkedin-preto.png'
 import WhatsApp from '../../assets/whatsapp.png'
 // import PerfilImg from '../../assets/perfil.png'
 // import Button from '../../Components/Button'
