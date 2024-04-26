@@ -41,6 +41,7 @@ export const SocialMedias = styled.div`
         width: 35px;
         margin-left: 130px;
         margin-top: 54px;
+        background-color: transparent;
         filter: opacity(0.5) drop-shadow(0 0 0 white);
     }
 
@@ -49,7 +50,8 @@ export const SocialMedias = styled.div`
         width: 48px;
         margin-left: 130px;
         margin-top: 54px;
-        background-color: #FFFFFF;
+        background-color: transparent;
+        /* background-color: #FFFFFF; */
 
     }
 
