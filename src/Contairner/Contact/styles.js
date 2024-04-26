@@ -47,7 +47,7 @@ export const SocialMedias = styled.div`
 
     .github{
         height: 48px;
-        width: 48px;
+        width: 62px;
         margin-left: 130px;
         margin-top: 54px;
         background-color: transparent;
